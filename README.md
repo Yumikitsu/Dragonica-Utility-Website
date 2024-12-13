@@ -1,8 +1,7 @@
-# React + Vite
+# Dragonica Utility Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A website and parser for Dragonica to list all items, quests, and map locations, but also contains a skill tree simulator and an enchanting simulator.
 
-Currently, two official plugins are available:
+# Parser
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Used for parsing query results from the database into useable information.
